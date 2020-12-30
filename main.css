@@ -33,7 +33,7 @@
 	height: 100%;
   }
   
-  .page__container {
+  .pageContainer {
 	margin: 0;
 	min-width: 0;
 	display: flex;
